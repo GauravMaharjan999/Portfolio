@@ -1,12 +1,12 @@
 /*global $, WOW*/
 /*
 ===========================================================================
- EXCLUSIVE ON themeforest.net
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  Project Name		: Gaurav - Responsive CV/Resume Template
  Author             : Yahya Essam
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- Copyright (c) 2016 - 2020 Yahya Essam - https://themeforest.net/user/visionscode
+ Copyright (c) 2016 - 2020 Yahya Essam - https:///user/visionscode
 ===========================================================================
 */
 
