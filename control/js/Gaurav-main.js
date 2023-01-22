@@ -175,7 +175,7 @@ jQuery(function () {
 function submit_form() {
 	"use strict";
 	//Variable declaration and assignment
-	var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/,
+	let reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/,
 		fullname = jQuery("#fullname").val(),
 		email = jQuery("#email").val(),
 		message = jQuery("#message").val(),
